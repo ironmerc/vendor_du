@@ -6,11 +6,11 @@ PRODUCT_PACKAGES += \
     CustomDoze \
     OmniStyle \
     messaging \
-    WallpaperPicker2
+    WallpaperPicker2 \
+    Lawnchair
 
 # Overlays
 PRODUCT_PACKAGES += \
-    NexusLauncherReleaseOverlay \
     PixelSetupWizardOverlay \
     PixelSetupWizardAodOverlay \
     NoCutoutOverlay
