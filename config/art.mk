@@ -15,7 +15,8 @@ PRODUCT_DEX_PREOPT_DEFAULT_COMPILER_FILTER := speed-profile
 # Speed apps
 PRODUCT_DEXPREOPT_SPEED_APPS += \
   SystemUI \
-  Settings
+  Settings \
+  NexusLauncherRelease
 
 # Dexopt boot types
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
