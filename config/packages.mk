@@ -15,3 +15,7 @@ PRODUCT_PACKAGES += \
     PixelSetupWizardAodOverlay \
     NoCutoutOverlay
 
+# Allows registering device to Google easier for gapps
+# Integrates package for easier Google Pay fixing
+PRODUCT_PACKAGES += \
+    sqlite3
