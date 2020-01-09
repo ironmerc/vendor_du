@@ -7,3 +7,10 @@ PRODUCT_PACKAGES += \
     OmniStyle \
     messaging
 
+# Overlays
+PRODUCT_PACKAGES += \
+    NexusLauncherReleaseOverlay \
+    PixelSetupWizardOverlay \
+    PixelSetupWizardAodOverlay \
+    NoCutoutOverlay
+
