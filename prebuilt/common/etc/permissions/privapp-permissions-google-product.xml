@@ -843,6 +843,7 @@
         <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
         <permission name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
         <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
+        <permission name="android.permission.WRITE_DEVICE_CONFIG"/>
         <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
         <permission name="android.permission.WRITE_SETTINGS_HOMEPAGE_DATA"/>
         <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
