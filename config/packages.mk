@@ -11,8 +11,6 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    PixelSetupWizardOverlay \
-    PixelSetupWizardAodOverlay \
     NoCutoutOverlay
 
 # Allows registering device to Google easier for gapps
